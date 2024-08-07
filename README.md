@@ -21,6 +21,23 @@ Aurora is a weather application built using React that provides current weather 
 3. **Main Content**:
    - **WeatherCard**: Shows current weather information including icon, temperature, location, wind speed, humidity, heat index, and conditions. Styled with a modern glassmorphism effect.
    - **MiniCard**: Provides a small forecast with an icon, temperature, and time. Uses a glassmorphism style for a consistent look.
+  
+## SNAPSHOTS 
+Landing Page :
+
+![image](https://github.com/user-attachments/assets/26beb927-0693-4f4f-baad-86fd297a7ffe)
+
+Place with ‘Partially Cloudy’ weather :
+
+![image](https://github.com/user-attachments/assets/cd90fb29-d810-4d18-8fb1-7a00f7f6d410)
+
+Place with ‘Clear Skies’ weather:
+
+![image](https://github.com/user-attachments/assets/4f8b0276-3cd9-491d-bdf8-f2d94c304f5a)
+
+Place with ‘Rainy’ weather :
+
+![image](https://github.com/user-attachments/assets/e258cff9-556e-4f79-96e3-2e01254f6c1b)
 
 ## Installation
 
